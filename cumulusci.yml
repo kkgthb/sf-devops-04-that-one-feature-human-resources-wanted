@@ -1,0 +1,7 @@
+project:
+  name: devops-demo-04-an-hr-feature
+  package:
+    name: DevOps Demo 04 - An HR Feature
+  git:
+    default_branch: 'main'
+  source_format: sfdx
