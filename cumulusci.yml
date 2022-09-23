@@ -2,6 +2,8 @@ project:
   name: devops-demo-04-an-hr-feature
   package:
     name: DevOps Demo 04 - An HR Feature
+  dependencies:
+    - github: https://github.com/kkgthb/sf-devops-02-org-agnostic-utils
   git:
     default_branch: 'main'
   source_format: sfdx
